@@ -1,0 +1,7 @@
+C:\Users\marti\OneDrive - Instituto Politécnico do Cávado e do Ave\2ano_1semestre\Programação orientada a objetos\Aulas\Aula2_1exercicio\Revisao1\bin\Debug\Revisao1.exe.config
+C:\Users\marti\OneDrive - Instituto Politécnico do Cávado e do Ave\2ano_1semestre\Programação orientada a objetos\Aulas\Aula2_1exercicio\Revisao1\bin\Debug\Revisao1.exe
+C:\Users\marti\OneDrive - Instituto Politécnico do Cávado e do Ave\2ano_1semestre\Programação orientada a objetos\Aulas\Aula2_1exercicio\Revisao1\bin\Debug\Revisao1.pdb
+C:\Users\marti\OneDrive - Instituto Politécnico do Cávado e do Ave\2ano_1semestre\Programação orientada a objetos\Aulas\Aula2_1exercicio\Revisao1\obj\Debug\Revisao1.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive - Instituto Politécnico do Cávado e do Ave\2ano_1semestre\Programação orientada a objetos\Aulas\Aula2_1exercicio\Revisao1\obj\Debug\Revisao1.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive - Instituto Politécnico do Cávado e do Ave\2ano_1semestre\Programação orientada a objetos\Aulas\Aula2_1exercicio\Revisao1\obj\Debug\Revisao1.exe
+C:\Users\marti\OneDrive - Instituto Politécnico do Cávado e do Ave\2ano_1semestre\Programação orientada a objetos\Aulas\Aula2_1exercicio\Revisao1\obj\Debug\Revisao1.pdb
